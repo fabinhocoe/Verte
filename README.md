@@ -12,4 +12,6 @@ A marca original está em `dist/assets/marca-original.svg`. O símbolo usado na 
 - Residência: Michael Brown / Unsplash — https://unsplash.com/photos/modern-house-with-large-windows-at-dusk-cUoXTLVFQ9M
 - Arquitetura: Mika Ruusunen / Unsplash — https://unsplash.com/photos/white-concrete-building-during-daytime-cwxvPWVTwcs
 
+Páginas legais: `dist/privacidade/`, `dist/termos/` e `dist/exclusao-de-dados/` (URLs `/privacidade`, `/termos`, `/exclusao-de-dados`), linkadas no rodapé.
+
 Imagens baixadas para carregamento independente de serviços externos. Fontes Google com alternativas locais definidas no CSS.
